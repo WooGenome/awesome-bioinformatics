@@ -20,7 +20,7 @@ TODO: Need your contribution !
 
 ### alignment 
 
-## programming languages in Bioinformatics 
+## Programming languages in Bioinformatics 
 
 ### R, BioConductor 
 
@@ -30,3 +30,5 @@ TODO: Need your contribution !
 
 ### Java 
 
+
+## Contributors 
