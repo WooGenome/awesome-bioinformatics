@@ -3,7 +3,7 @@ awesome-bioinformatics
 
 A curated list of awesome Bioinformatics databases, softwares, libraries, toolboxes, pipelines, books, courses, tutorials and more. If you just want a software list maybe wikipedia is better : http://en.wikipedia.org/wiki/List_of_sequence_alignment_software .
 
-**TODO:** Need your contribution !
+**TODO:** Need your contribution. **WELCOME** your pull !
 
 -- 
 
