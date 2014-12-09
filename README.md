@@ -13,7 +13,7 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 - plant
 
 - genotype 
-- Phynotype 
+- phenotype 
 
 - SNP
 - protein 
