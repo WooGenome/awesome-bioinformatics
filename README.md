@@ -36,6 +36,12 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 
 #### C & C++ 
 
+## Service & Open API
+* [EBI services](http://www.ebi.ac.uk/services) 
+* [Amazon Genomics API](http://aws.amazon.com/genomics)
+* [Google Genomics API](http://cloud.google.com/genomics)
+* [DNAnexus API ](https://wiki.dnanexus.com/Home)
+* [23andme open API](https://api.23andme.com)
 
 ## Toolbox & Pipeline 
 
