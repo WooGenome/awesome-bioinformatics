@@ -57,5 +57,16 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 - [Mathematical Biostatistics Boot Camp 2 ](https://www.coursera.org/course/biostats2) (Johns Hopkins University)
 - [Computational Molecular Evolution ](https://www.coursera.org/course/molevol) (Technical University of Denmark (DTU))
 
+### MOOC from edX
+- [Data analysis for genomics](https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x)
+  PH525.1x: Statistics and R for the Life Sciences
+  PH525.2x: Introduction to Linear Models and Matrix Algebra
+  PH525.3x: Advanced Statistics for the Life Sciences
+  PH525.4x: Introduction to Bioconductor
+  PH525.5x: Case study: RNA-seq data analysis
+  PH525.6x: Case study: Variant Discovery and Genotyping
+  PH525.7x: Case study: ChIP-seq data analysis
+  PH525.8x: Case study: DNA methylation data analysis
+
 ## Contributors 
 Welcome your contribution. 
