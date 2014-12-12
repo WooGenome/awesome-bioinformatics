@@ -13,11 +13,13 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 - genotype , phenotype , SNP, protein 
 
 ## Software & library 
-### Sequence analysis 
+### sequence analysis 
 
 ### alignment 
 
 ### assembly 
+
+### visualization
 
 ### Programming 
 
