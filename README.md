@@ -47,7 +47,7 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 
 ## Book & Course & Tutorial 
 ### Books
-
+- [Lewin's GENES XI](http://www.amazon.com/Lewins-GENES-XI-Jocelyn-Krebs/dp/1449659853)
 
 ### MOOC from Coursera
 - [Introduction to Bioinformatics](https://www.coursera.org/course/bioinfo) (Saint Petersburg State University)
