@@ -8,20 +8,16 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 -- 
 
 ## Databases 
-- human
-- animal
-- plant
+- human,animal, plant
 
-- genotype 
-- phenotype 
-
-- SNP
-- protein 
+- genotype , phenotype , SNP, protein 
 
 ## Software & library 
 ### Sequence analysis 
 
 ### alignment 
+
+### assembly 
 
 ### Programming 
 
@@ -44,6 +40,7 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 * [23andme open API](https://api.23andme.com)
 
 ## Toolbox & Pipeline 
+* TODO
 
 ## Book & Course & Tutorial 
 ### Books
