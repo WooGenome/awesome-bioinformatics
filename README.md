@@ -44,7 +44,7 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 ## Toolbox & Pipeline 
 * TODO
 
-## Book & Course & Tutorial 
+## Book & Course & Tutorial & Blog
 ### Books
 - [Lewin's GENES XI](http://www.amazon.com/Lewins-GENES-XI-Jocelyn-Krebs/dp/1449659853)
 
@@ -67,6 +67,10 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
     * PH525.6x: Case study: Variant Discovery and Genotyping 
     * PH525.7x: Case study: ChIP-seq data analysis 
     * PH525.8x: Case study: DNA methylation data analysis 
+
+
+### Blog
+
 
 ## Contributors 
 Welcome your contribution. 
