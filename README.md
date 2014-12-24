@@ -7,7 +7,7 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 
 -- 
 
-## Databases 
+## Database & Open Data
 - human,animal, plant
 
 - genotype , phenotype , SNP, protein 
