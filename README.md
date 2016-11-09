@@ -20,6 +20,8 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 ### assembly 
 
 ### visualization
+* Circos http://circos.ca 
+
 
 ### Programming 
 
@@ -29,6 +31,9 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 * biopython
 
 #### Perl
+* Bioconductor
+* BioPerl
+* Circos http://circos.ca 
 
 #### Java 
 
@@ -70,6 +75,9 @@ A curated list of awesome Bioinformatics databases, softwares, libraries, toolbo
 
 
 ### Blog
+
+
+## Famous Labs & Teams
 
 
 ## Contributors 
