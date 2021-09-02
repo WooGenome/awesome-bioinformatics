@@ -3,10 +3,10 @@ awesome-bioinformatics
 
 A curated list of awesome Bioinformatics databases, softwares, libraries, toolboxes, pipelines, books, courses, tutorials and more. If you just want a software list maybe wikipedia is better : http://en.wikipedia.org/wiki/List_of_sequence_alignment_software .
 
-
-Also I advise you to visit the following two awesome lists after read this awesome list:
+More silimar or related awesome list:
 * https://github.com/danielecook/Awesome-Bioinformatics  A curated list of awesome Bioinformatics libraries and software.
 * https://github.com/shenwei356/awesome Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.  (Parts of them are in Chinese)
+* https://github.com/j-andrews7/awesome-bioinformatics-benchmarks  Focus on benchmarks .
   
 **TODO:** Need your contribution. **WELCOME** your pull !
 
